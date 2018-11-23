@@ -6,7 +6,8 @@ import java.util.NoSuchElementException;
 
 /**
  * 类的定义：自定义的ArrayList的实现类
- * 类的内容：实现了一些基本功能如 size、doClear、isEmpty、trimToSize、get、set、add、ensureCapacity、MyArrayListIterator
+ * 类的内容：实现了一些基本功能如 size、doClear、isEmpty、
+ * trimToSize、get、set、add、ensureCapacity、MyArrayListIterator
  * User: Tenyson
  * Date: 2018-09-25
  * Time: 下午3:17

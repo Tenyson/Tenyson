@@ -1,4 +1,4 @@
-package Java基础.内部类.示例;
+ package Java基础.内部类.示例;
 
 /**
  * Created with IntelliJ IDEA.
@@ -13,6 +13,7 @@ interface Selector{
     void next();
 }
 public class Sequence {
+
     private Object[] items;
     private int next = 0;
     public Sequence(int size){

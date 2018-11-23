@@ -1,4 +1,4 @@
-package Java基础.内部类.练习;
+package Java基础.内部类.示例;
 
 /**
  * 创建一个Outer类，其包含一个内部类Inner,
